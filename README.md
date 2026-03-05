@@ -25,6 +25,7 @@ meuFone.mudarVolume(85);
 
 // Saída esperada no console:
 // "Cuidado, seu volume pode prejudicar seus tímpanos"
+```
 O sistema permite:
 1.  **Instanciar um fone** com um volume inicial.
 2.  **Alterar o volume** através do método "mudarVolume".
